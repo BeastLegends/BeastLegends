@@ -1,4 +1,5 @@
 ---
+cover: .gitbook/assets/8.11.jpg
 coverY: 0
 ---
 
