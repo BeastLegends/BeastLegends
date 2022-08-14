@@ -1,10 +1,8 @@
 ---
-cover: .gitbook/assets/8.11.jpg
+cover: .gitbook/assets/628e80b492b06c1387756a845fb7fbb.jpg
 coverY: 0
 ---
 
 # Welcome!
 
-## Welcome aboard!
-
-Welcome to the company wiki! Here you'll find everything you need to know about the company.
+## 以山海经为背景的NFT+元宇宙区块链游戏平台
