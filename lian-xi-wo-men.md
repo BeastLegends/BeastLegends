@@ -1,18 +1,18 @@
 # 联系我们
 
-Telegram
+## Telegram
 
 {% embed url="https://t.me/beastslegend" %}
 
-Twitter
+## Twitter
 
 {% embed url="https://twitter.com/BeastLegends3" %}
 
-Discord
+## Discord
 
 {% embed url="https://discord.gg/EcYZbUc5sJ" %}
 
-YouTube
+## YouTube
 
 {% embed url="https://youtu.be/5z93m1npWPM" %}
 

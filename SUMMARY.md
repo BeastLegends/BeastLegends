@@ -104,4 +104,9 @@
 
 ## 公告
 
-* [Page 2](gong-gao/page-2.md)
+* [合作进展](gong-gao/he-zuo-jin-zhan/README.md)
+  * [与binance合作](gong-gao/he-zuo-jin-zhan/yu-binance-he-zuo.md)
+  * [与MetaMask合作](gong-gao/he-zuo-jin-zhan/yu-metamask-he-zuo.md)
+  * [与TokenPocket合作](gong-gao/he-zuo-jin-zhan/yu-tokenpocket-he-zuo.md)
+* [活动](gong-gao/huo-dong/README.md)
+  * [10000U空投活动](gong-gao/huo-dong/10000u-kong-tou-huo-dong.md)
