@@ -2,7 +2,7 @@
 
 BLC 的发行总量 100 亿，其中包括：
 
-![](../.gitbook/assets/860bf6f3493ce88342e8d32a7a93d37.jpg)
+![](<../.gitbook/assets/860bf6f3493ce88342e8d32a7a93d37 (1).jpg>)
 
 释放模型：
 

@@ -5,10 +5,25 @@ coverY: 0
 
 # 领取空投教程
 
-To request time off, just fill in our simple form and we'll get it approved!
+{% embed url="https://twitter.com/BeastLegends3/status/1558099992518467584" %}
 
-{% hint style="info" %}
-**Good to know:** you can embed public links, like this Typeform, to make data capture a breeze!
-{% endhint %}
+进入Twitter后，点击这个【】，跳转至telegram
 
-{% embed url="https://2w3pnm4iy73.typeform.com/to/P228Ngvj" %}
+![](../.gitbook/assets/e09fafb523142c35de2cb5f7f7bc1104\_.jpg)
+
+进入telegram后，跟随指引，回答问题
+
+![](../.gitbook/assets/eb290cb97c1c5c64436cbf0d82aac907\_.jpg)
+
+第一步，点击链接进入twitter后，点击关注twitter
+
+![](../.gitbook/assets/735fe348f4b46d4b6b4ee540ee246a86\_.jpg)
+
+然后回复你的twitter ID
+
+第二步，输入你转发的活动twitter的链接
+
+![](../.gitbook/assets/35020af80734d6d06d3f1efa54fbd14a\_.jpg)
+
+
+
